@@ -1,0 +1,110 @@
+header {
+  background-color: #2c2c2c;
+}
+.home {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.nav {
+  font-family: Arodora Pro;
+  font-size: 18px;
+  list-style: none;
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+}
+.header-nav__link {
+  text-decoration: none;
+  color: #e4e4e4;
+}
+.person-info {
+  color: #e4e4e4;
+  font-family: NEXT ART;
+  margin-top: 200px;
+}
+.hello {
+  font-size: 48px;
+  font-weight: 600;
+}
+.name {
+  font-size: 72px;
+  font-weight: bold;
+  margin: 0;
+  line-height: 82px;
+  max-width: 600px;
+  display: block;
+  min-width: 450px;
+}
+.opis {
+  max-width: 500px;
+  margin: 0;
+  line-height: 21px;
+  font-size: 18px;
+  font-family: Arodora Pro;
+  font-weight: 300;
+  margin: 27px 0;
+}
+.contact-me {
+  font-size: 18px;
+  font-family: NEXT ART;
+  font-weight: bold;
+  width: 200px;
+  height: 47px;
+  background: linear-gradient(87.32deg, #e2a300 4.47%, #e29500 95.53%);
+  box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+  border-radius: 6px;
+  border: 0;
+  cursor: pointer;
+}
+.home-nav {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.person {
+  display: flex;
+}
+/*Main*/
+main {
+  background: linear-gradient(130.68deg, #414141 0%, #2d2d2d 100.52%);
+}
+.main-nav {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  max-width: 1200px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: center;
+}
+.main-nav__link {
+  text-decoration: none;
+  color: #e4e4e4;
+  font-family: Arodora Pro;
+  font-size: 24px;
+}
+.main-nav__item {
+  width: 270px;
+  height: 270px;
+  background: #2a2a2a;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.47);
+  border-radius: 29px;
+  text-align: center;
+  padding: 45px;
+  min-width: 270px;
+  margin: 15px;
+}
+.menu-img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+.menu-img2 {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+.menu {
+  padding-top: 100px;
+}
